@@ -7,7 +7,7 @@ To create a locally-run app used for visualization and analysis of the high-leve
 Objects represented as free-floating resizable and movable boxes on a canvas. Each object contains fields for the object's variables/methods, which can then be connected to specific components of other objects. An "abstract" command can be used to bundle object's together in a "black box" view, in order to visualize what each method/object can "see" of other objects or packages. The canvas, along with all children is saveable in a .txt file.
 
 ## Dependencies
-- Java SE 21
+- Java SE 22
 - JavaFX 22.0.2
 
 ## Status: Work in progress
